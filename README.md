@@ -12,7 +12,7 @@ SSH Port: 2200
 
 SSH Key: Given to project grader, is unique ror every user
 
-Application Link: [54.245.168.69.xip.io](54.245.168.69.xip.io)
+Application Link: [54.245.168.69.xip.io](http://54.245.168.69.xip.io)
 
 ## Initial Security Configuration
 I first edited the SSH port on my instance from 22 to 2200 by changing the sshd_config file
